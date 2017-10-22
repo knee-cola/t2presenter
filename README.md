@@ -41,7 +41,7 @@ If however after releasing the OK button you press it again within 2 seconds, th
 ## Using other buttons
 Here's a list of all the T2 AirMouse buttons and their function (listed as they are positioned on the T2 AirMouse. First let's have a look at key diagram:
 
-![t2presenter-key-diagram](https://rawgit.com/knee-cola/t2presenter/master/assets/key-diagram.jpg | width=100)
+<img src="https://rawgit.com/knee-cola/t2presenter/master/assets/key-diagram.jpg" alt="t2presenter-key-diagram" width="350"/>
 
 ### Standard mouse mode
 
