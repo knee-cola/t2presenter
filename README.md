@@ -39,7 +39,8 @@ When the OK button is pressed the laser pointer is positioned in the bottom left
 If however after releasing the OK button you press it again within 2 seconds, the cursor/pointer will be shown at the last position it was visible. After 2 seconds have elapsed, the cursor position will be reset to it's initial position - bottom-left corner of the screen.
 
 ## Using other buttons
-Here's a list of all the T2 AirMouse buttons and their function (listed as they are positioned on the T2 AirMouse (you can find the key diagram in the attachment):
+Here's a list of all the T2 AirMouse buttons and their function (listed as they are positioned on the T2 AirMouse. First let's have a look at key diagram:
+![t2presenter-key-diagram](https://rawgit.com/knee-cola/t2presenter/master/key-diagram.jpg)
 
 ### Standard mouse mode
 
